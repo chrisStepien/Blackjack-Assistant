@@ -4,8 +4,8 @@ Blackjack Assistant will be used as a support application while playing blackjac
 
 ## Plan to add
 
--UI for easier user interactions
+- UI for easier user interactions
 
--Better logic system
+- Better logic system
 
--Automatic card counting? 
+- Automatic card counting? 
